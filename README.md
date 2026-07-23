@@ -1,1 +1,3 @@
 # ui-motion-lab
+
+UI Motion Lab adalah sebuah repositori yang berisi kumpulan komponen antarmuka (UI) modern dan sistem animasi yang dapat digunakan kembali untuk membangun Beranda, Landing Page, maupun Single Page Application (SPA). Proyek ini berfokus pada arsitektur komponen yang modular, performa yang baik, kemudahan pemeliharaan, dan kepatuhan terhadap praktik terbaik web modern seperti Core Web Vitals dan aksesibilitas. Setiap komponen dikembangkan secara bertahap, didokumentasikan, serta diuji secara mandiri sebelum digunakan dalam template halaman yang lebih kompleks. Repository ini juga berfungsi sebagai dokumentasi perjalanan pengembangan, sehingga setiap eksperimen, teknik animasi, dan keputusan desain dapat dipelajari kembali di kemudian hari.
